@@ -1,0 +1,3 @@
+STEP 1: Create json from tweek.so export
+STEP 2: Fill text fields from AI generator
+STEP 3: Create and fill pdfs
